@@ -106,7 +106,7 @@ pip install PyPDF2
 ## 🧬 Cloning the Repository
 
 bash
-git clone https://github.com/shivakasula48/pdf-protection-tool.git
+git clone https://github.com/HarshithSaini/PDF-Protection-Tool-
 
 ## 🚀 Usage
 
